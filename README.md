@@ -8,6 +8,8 @@ This repository contains a Python-based automation tool designed to handle pass 
 - **Customizable Settings**: Configure subscription parameters to suit your needs.
 - **User-Friendly Interface**: Interact with the script through a simple command-line interface.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19l0Fzxx12THg5xF_v9UhbW5MBvVfopBi?usp=sharing)
+
 ## Installation
 
 1. **Clone the Repository**
